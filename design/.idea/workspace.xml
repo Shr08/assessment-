@@ -2,15 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="537014c7-54df-4459-9b6e-09423f44996f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-ttn/src/test/groovy/EmployeeSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-ttn/src/test/java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inout/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com-ttn/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com-ttn/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/.idea.gitignore/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/.idea.gitignore/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/addInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/addInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/concateInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/concateInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/ex4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/ex6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex8read.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/ex8read.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex8write.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/ex8write.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/ex9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/incrementInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/incrementInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/uppercaseInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/uppercaseInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex2pre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex2pre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex2supp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex2supp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex7de.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex7de.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex7ser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex7ser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex8read.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex8read.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex8write.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex8write.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../inpout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inpout/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithreading/src/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading/src/ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithreading/src/ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading/src/ex11.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,19 +55,20 @@
     <session id="792061358">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -51,7 +84,21 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ex6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+              <folding>
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -115,18 +161,32 @@
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ex1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ex6.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ex8.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538596197883" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538627790988" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../inout" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,43 +287,54 @@
       <option name="presentableId" value="Default" />
       <updated>1538591274272</updated>
       <workItem from="1538591277241" duration="4163000" />
+      <workItem from="1538627535950" duration="887000" />
+      <workItem from="1538634975182" duration="791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4163000" />
+    <option name="totallyTimeSpent" value="5841000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24940239" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25737053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32919255" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32919255" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,13 +356,6 @@
             <element signature="e#503#504#0" expanded="true" />
             <element signature="e#541#542#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -406,43 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="87" column="32" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
-            <element signature="e#1195#1196#0" expanded="true" />
-            <element signature="e#1277#1278#0" expanded="true" />
-            <element signature="e#1391#1392#0" expanded="true" />
-            <element signature="e#1424#1425#0" expanded="true" />
-            <element signature="e#1476#1477#0" expanded="true" />
-            <element signature="e#1520#1521#0" expanded="true" />
-            <element signature="e#1684#1685#0" expanded="true" />
-            <element signature="e#1753#1754#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
@@ -464,6 +491,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

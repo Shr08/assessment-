@@ -2,8 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7db18e47-fdf9-4774-92f1-9de169ef3534" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../com-ttn/src/test/groovy/EmployeeSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-ttn/src/test/java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com-ttn/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com-ttn/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../design/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../design/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inpout/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/design.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../design/design.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../design/out/production/design/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea.gitignore/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea.gitignore/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inout/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inout/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inout/addInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inout/addInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inout/concateInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inout/concateInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inout/ex4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inout/ex4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inout/ex6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inout/ex6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inout/ex8read.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inout/ex8read.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inout/ex8write.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inout/ex8write.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inout/ex9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inout/ex9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inout/incrementInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inout/incrementInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inout/uppercaseInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inout/uppercaseInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex2pre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2pre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex2supp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2supp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex7de.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex7de.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex7ser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex7ser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex8read.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8write.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex8write.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inpout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inpout/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithreading/src/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading/src/ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithreading/src/ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading/src/ex11.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +56,10 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -99,6 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,15 +172,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538635134635" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538638099676" />
+    <property name="last_opened_file_path" value="$USER_HOME$/samplegradle" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -217,16 +256,17 @@
       <workItem from="1538628881279" duration="612000" />
       <workItem from="1538634828456" duration="145000" />
       <workItem from="1538634990984" duration="167000" />
+      <workItem from="1538635168566" duration="1263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1930000" />
+    <option name="totallyTimeSpent" value="3193000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2613546" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26613545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -242,7 +282,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32763976" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />

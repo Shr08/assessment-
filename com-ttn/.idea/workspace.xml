@@ -2,47 +2,147 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03aa2ff-c82d-400b-80bc-94425f8b1a06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/groovy/EmployeeSpec.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inout/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/description.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/collections/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../design/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../design/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../design/design.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../design/design.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../design/out/production/design/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../design/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/.idea.gitignore/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/.idea.gitignore/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assessment-" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/EmployeeSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/EmployeeSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/design.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Accessable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Adminn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Capsicum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Cheese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Blue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/CarFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/CarType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/ChinaCarFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/ChinaCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/CompanyDirectory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/DBConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/DeveloperDirectory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Directory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Green.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Identifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/IdentifierFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/IndianCarFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/IndianCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/LuxuryCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/ManagerDirectory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/MicroCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/MiniCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Polygon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Squaree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/StudentBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/Trianglee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/UkCarFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/UkCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/ex3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/ex4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/ex5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ExDesignpatterns/ex7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Olives.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/Sause.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ex6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/out/production/design/ex8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/ex5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/ex6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/ex7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/ex8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/.idea.gitignore/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/.idea.gitignore/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/.idea.gitignore/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/.idea.gitignore/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/.idea.gitignore/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/.idea.gitignore/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/.idea.gitignore/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../inout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/addInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/addInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/concateInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/concateInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/ex4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/ex6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex8read.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/ex8read.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex8write.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/ex8write.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/ex9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/incrementInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/incrementInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/uppercaseInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/out/production/inout/uppercaseInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/src/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/src/ex2pre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex2pre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/src/ex2supp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex2supp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/src/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/src/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/src/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/src/ex7de.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex7de.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/src/ex7ser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex7ser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/src/ex8read.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex8read.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/src/ex8write.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex8write.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inout/src/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inout/src/ex9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inpout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inpout/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multithreading/src/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading/src/ex10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multithreading/src/ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading/src/ex11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/inout.iml.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/addInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/concateInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex2cust.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex2pre$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex2pre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex2supp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex7de.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex7ser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex8read.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex8write.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/ex9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/incrementInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/out/production/inout/uppercaseInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/com/company/Main.java.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex2cust.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex2pre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex2supp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex7de.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex7ser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex8read.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex8write.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inout/src/ex9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inpout/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java1" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -93,7 +193,7 @@
     <session id="-1495945866">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="2" />
@@ -128,29 +228,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/EmployeeSpec.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -631,8 +709,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538638099710" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538638373832" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -719,7 +797,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538630084272</updated>
       <workItem from="1538630088563" duration="2524000" />
-      <workItem from="1538635666366" duration="2428000" />
+      <workItem from="1538635666366" duration="3252000" />
     </task>
     <servers />
   </component>
@@ -747,7 +825,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4952000" />
+    <option name="totallyTimeSpent" value="5776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -762,7 +840,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32919255" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -771,7 +849,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.33074534" />
+      <window_info active="true" anchor="bottom" id="Build" order="11" visible="true" weight="0.33074534" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />

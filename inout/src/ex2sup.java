@@ -3,7 +3,7 @@ import java.util.function.Supplier;
 public class ex2sup {
     public static void main(String[] args) {
         Supplier<Person> supplier = () -> {
-            return new Person("Roma", 23, "JVM");
+            return new Person("Shreya", 23, "JVM");
         };
         Person p = supplier.get();
         System.out.println("Person Detail:\n" + p.getName() + ", " + p.getAge() + ", " + p.getCompetancy());

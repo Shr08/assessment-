@@ -150,7 +150,7 @@ class StudentBuilder{
 public class ex4 {
 
     public static void main(String[] args) {
-        Student student = new StudentBuilder("Puneet",22)
+        Student student = new StudentBuilder("Shreya",22)
                 .withsection("a")
                 .hasOptedForSports(true)
                 .hasOptedForBus(false)

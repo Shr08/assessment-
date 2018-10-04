@@ -61,7 +61,7 @@ class Proxy extends Record
 public class ex8 {
     public static void main(String[] args)
     {
-        Adminn admin=new Adminn("Admi");
+        Adminn admin=new Adminn("Admin");
         Record record=new Proxy(admin);
         record.access();
 

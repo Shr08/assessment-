@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 public class ex3 {
     @Override
     public String toString() {
-        return "Q3{}";
+        return "ex3{}";
     }
 
     public static void main(String[] args) {

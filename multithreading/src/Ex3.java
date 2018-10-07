@@ -1,32 +1,29 @@
-public class ex3 {
+public class Ex3 {
     static Object monitor = new Object();
     static boolean one = true;
     static boolean two = false;
     static boolean three = false;
 
     public static void main(String[] args) {
-
-        Thread t1 = new Thread(new SequenceDisplayImpl(1));
-        Thread t2 = new Thread(new SequenceDisplayImpl(2));
-        Thread t3 = new Thread(new SequenceDisplayImpl(3));
+        Thread t1 = new Thread(new SequenceDisplay(1));
+        Thread t2 = new Thread(new SequenceDisplay(2));
+        Thread t3 = new Thread(new SequenceDisplay(3));
         t1.start();
         t2.start();
         t3.start();
-
     }
 
-    static class SequenceDisplayImpl implements Runnable {
+    static class SequenceDisplay implements Runnable {
 
         int threadId;
 
-        SequenceDisplayImpl(int threadId) {
+        SequenceDisplay (int threadId) {
             this.threadId = threadId;
         }
 
         public void run() {
             print();
         }
-
         private void print() {
             try {
                 while (true) {
@@ -70,9 +67,6 @@ public class ex3 {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-
         }
-
     }
-
 }
